@@ -11,6 +11,7 @@ This is a Magisk/KernelSU module that allows you to run the Official Odin4 binar
 
 ## Important Notes
 
+- Requires an ARM64 Kernel.
 - This module is intended for those who knows how to use a terminal.
 - Non-personal usage of the Odin4 binary may have legal risks; proceed with caution.
 - For non-root usage, refer to [Eros Flashing Tool](https://github.com/Gabriel2392/eros_samsung)
